@@ -2,7 +2,7 @@
 
 # Teste
 
-Existem 9 testes unitários, os quais os códigos não estão implementados, no projeto TesteArgo.csproj
+Existem 4 testes unitários, os quais os códigos não estão implementados no projeto TesteArgo.csproj
 
 # Objetivo
 
