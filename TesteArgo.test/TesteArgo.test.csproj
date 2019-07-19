@@ -48,15 +48,12 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="teste1.test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="teste3.test.cs" />
     <Compile Include="teste4.test.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="exmeplo.test.cs" />
     <None Include="packages.config" />
-    <Compile Include="teste2.test.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TesteArgo\TesteArgo.csproj">

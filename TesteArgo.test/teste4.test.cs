@@ -1,19 +1,14 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TesteArgo.test
 {
     [TestClass]
-    public class teste4Test
+    public class teste2Test
     {
-        teste4 classeTeste = new teste4();
+        teste2 classeTeste = new teste2();
 
         [TestMethod]
-        public void teste4_ListarFilmes()
+        public void teste2_ListarFilmes()
         {
             var resultado = classeTeste.ListarDestino();
 
@@ -23,11 +18,11 @@ namespace TesteArgo.test
 
 
         [TestMethod]
-        public void teste4_ListarPorId()
+        public void teste2_ListarPorId()
         {
             var resultado = classeTeste.buscarPorId(1);
 
-            Assert.IsNotNull(resultado);            
+            Assert.IsNotNull(resultado);
         }
     }
 }

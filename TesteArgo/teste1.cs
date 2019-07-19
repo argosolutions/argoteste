@@ -7,7 +7,7 @@ using TesteArgo.Models;
 
 namespace TesteArgo
 {
-    public class teste3
+    public class teste1
     {
         ///www.omdbapi.com/
         const string ApiKey = "18693fd6";

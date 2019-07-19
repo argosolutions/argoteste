@@ -15,7 +15,7 @@ namespace TesteArgo.Models
         /// <summary>
         /// Year
         /// </summary>
-        public int? Ano { get; set; }
+        public string Ano { get; set; }
         /// <summary>
         /// imdbID
         /// </summary>

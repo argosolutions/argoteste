@@ -23,7 +23,7 @@ namespace TesteArgo
     /// Dia data nulavel
     /// 
     /// </summary>
-    public class teste4
+    public class teste2
     {
         /// <summary>
         /// 

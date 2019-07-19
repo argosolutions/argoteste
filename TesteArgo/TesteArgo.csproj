@@ -42,15 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="exemplo.cs" />
     <Compile Include="Models\Destino.cs" />
     <Compile Include="Models\Filme.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="teste1.cs" />
     <Compile Include="teste2.cs" />
-    <Compile Include="teste3.cs" />
-    <Compile Include="teste4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
